@@ -1,0 +1,6 @@
+@Quokka_HostAddress = http://localhost:5197
+
+GET {{Quokka_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

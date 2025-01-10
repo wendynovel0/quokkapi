@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quokka", "Quokka.csproj", "{B8475102-844D-42D0-9275-3FB4AEBA339B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8475102-844D-42D0-9275-3FB4AEBA339B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8475102-844D-42D0-9275-3FB4AEBA339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8475102-844D-42D0-9275-3FB4AEBA339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8475102-844D-42D0-9275-3FB4AEBA339B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDFE0733-237C-47F7-94AA-2828688DA148}
+	EndGlobalSection
+EndGlobal

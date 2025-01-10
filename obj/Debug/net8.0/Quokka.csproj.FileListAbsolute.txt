@@ -1,0 +1,107 @@
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.csproj.AssemblyReference.cache
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.AssemblyInfoInputs.cache
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.AssemblyInfo.cs
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.csproj.CoreCompileInputs.cache
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\appsettings.json
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Quokka.exe
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Quokka.deps.json
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Quokka.runtimeconfig.json
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Quokka.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Quokka.pdb
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\DnsClient.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Snappier.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.Quokka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.build.Quokka.props
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quokka.props
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quokka.props
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\scopedcss\bundle\Quokka.styles.css
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.csproj.Up2Date
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.dll
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\refint\Quokka.dll
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.pdb
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\Quokka.genruntimeconfig.cache
+C:\Users\Delmy Cab\Pictures\Quokka\obj\Debug\net8.0\ref\Quokka.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Delmy Cab\Pictures\Quokka\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\appsettings.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Quokka.exe
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Quokka.deps.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Quokka.runtimeconfig.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Quokka.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Quokka.pdb
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\DnsClient.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Snappier.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.csproj.AssemblyReference.cache
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.AssemblyInfoInputs.cache
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.AssemblyInfo.cs
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.csproj.CoreCompileInputs.cache
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.Quokka.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.build.Quokka.props
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Quokka.props
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Quokka.props
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\scopedcss\bundle\Quokka.styles.css
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.csproj.Up2Date
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\refint\Quokka.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.pdb
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\Quokka.genruntimeconfig.cache
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\obj\Debug\net8.0\ref\Quokka.dll
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\publish\web.config
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\publish\appsettings.Development.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\publish\appsettings.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\publish\Quokka.deps.json
+C:\Users\wendy\Downloads\Quokka-main\Quokka-main\Quokka\bin\Debug\net8.0\publish\Quokka.runtimeconfig.json
